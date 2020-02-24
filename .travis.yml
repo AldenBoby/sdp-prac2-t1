@@ -1,7 +1,7 @@
 language: csharp
 dotnet: 2.1.511
 os: linux
-script: dotnet test Problems.Tests\Problems.Tests.csproj
+script: dotnet test Problems.Tests/Problems.Tests.csproj
 jobs:
   include:
   - dist: xenial

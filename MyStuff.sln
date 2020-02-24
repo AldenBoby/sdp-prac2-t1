@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problems", "Problems\Problems.csproj", "{AEAA7D45-6CD1-458B-8024-05E5C96EDD96}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{10346610-52DB-4E64-8AC5-0A98557BBE99}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problems.Tests", "Problems.Tests\Problems.Tests.csproj", "{71B44E4D-C382-4503-B529-315BDDEE9769}"
 EndProject
 Global
